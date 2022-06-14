@@ -1,11 +1,13 @@
 # lista-tarefas
+Projeto desenvolvido para treino.<br>
+Lista de tarefas simples, adicionar, marcar e remover.
 
 ## Project setup
 ```
-yarn install
+yarn
 ```
 
-### Compiles and hot-reloads for development
+### Compile and run for development
 ```
 yarn serve
 ```
@@ -14,11 +16,3 @@ yarn serve
 ```
 yarn build
 ```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
